@@ -4895,6 +4895,12 @@
 		(uuid "05332bf5-36ee-402e-b390-4207cde7a786")
 	)
 	(junction
+		(at 44.45 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0bd6e768-cee1-465b-8181-6ec27267da8c")
+	)
+	(junction
 		(at 226.06 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4905,12 +4911,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "370ae36d-01ed-40bf-80ee-21b1e4a5f8de")
-	)
-	(junction
-		(at 19.05 140.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "38db7031-1f47-4aef-a691-6ad18ffae57c")
 	)
 	(junction
 		(at 226.06 64.77)
@@ -4961,7 +4961,7 @@
 		(uuid "71a426e0-09d5-446e-8913-fd53f0e1ec90")
 	)
 	(junction
-		(at 19.05 125.73)
+		(at 44.45 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "73e47daf-9306-4aef-b8b7-9f8dfc4777e7")
@@ -4983,12 +4983,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "78e2c092-cc47-45be-a613-61bad5ec8c7e")
-	)
-	(junction
-		(at 19.05 156.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "79193f02-2d55-4a96-a30d-e33f53c88380")
 	)
 	(junction
 		(at 247.65 144.78)
@@ -5025,6 +5019,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5bd4311-2ba9-44ac-89fb-d628948f8384")
+	)
+	(junction
+		(at 167.64 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b68f5045-25df-4786-bf5f-2e1f6d957306")
 	)
 	(junction
 		(at 170.18 78.74)
@@ -5118,7 +5118,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 140.97) (xy 19.05 140.97)
+			(xy 46.99 144.78) (xy 44.45 144.78)
 		)
 		(stroke
 			(width 0)
@@ -5168,7 +5168,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 125.73) (xy 19.05 140.97)
+			(xy 44.45 129.54) (xy 44.45 144.78)
 		)
 		(stroke
 			(width 0)
@@ -5268,16 +5268,6 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 156.21) (xy 48.26 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1254e1c9-0a4a-451c-97c6-80fc5f6b9aa5")
-	)
-	(wire
-		(pts
 			(xy 107.95 190.5) (xy 107.95 187.96)
 		)
 		(stroke
@@ -5328,16 +5318,6 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 156.21) (xy 21.59 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18155325-cd6b-477e-a388-33299b77fa8e")
-	)
-	(wire
-		(pts
 			(xy 107.95 93.98) (xy 107.95 97.79)
 		)
 		(stroke
@@ -5375,16 +5355,6 @@
 			(type default)
 		)
 		(uuid "1bf6020b-6d41-4e8c-b086-32670f021689")
-	)
-	(wire
-		(pts
-			(xy 19.05 140.97) (xy 19.05 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d199067-7480-42d1-97d0-df5aab7f74a1")
 	)
 	(wire
 		(pts
@@ -5698,16 +5668,6 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 162.56) (xy 19.05 156.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5676c784-a769-46ed-9d59-108208871e5b")
-	)
-	(wire
-		(pts
 			(xy 120.65 97.79) (xy 120.65 95.25)
 		)
 		(stroke
@@ -5758,7 +5718,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 125.73) (xy 19.05 125.73)
+			(xy 46.99 129.54) (xy 44.45 129.54)
 		)
 		(stroke
 			(width 0)
@@ -5858,7 +5818,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 110.49) (xy 19.05 125.73)
+			(xy 44.45 114.3) (xy 44.45 129.54)
 		)
 		(stroke
 			(width 0)
@@ -5875,6 +5835,16 @@
 			(type default)
 		)
 		(uuid "624fc900-a4e8-4d6c-a04d-59d7a168bec0")
+	)
+	(wire
+		(pts
+			(xy 44.45 144.78) (xy 44.45 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62642aef-71bc-430b-9478-6f217b4a3f75")
 	)
 	(wire
 		(pts
@@ -5995,6 +5965,16 @@
 			(type default)
 		)
 		(uuid "6ed2f996-147c-4fc7-95c5-ea6a8b14af7a")
+	)
+	(wire
+		(pts
+			(xy 167.64 34.29) (xy 175.26 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "700a1251-db87-4580-a4da-1da440b9c12b")
 	)
 	(wire
 		(pts
@@ -6178,6 +6158,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 41.91) (xy 175.26 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89015804-1c34-4731-88af-3582de8971ee")
+	)
+	(wire
+		(pts
 			(xy 256.54 86.36) (xy 259.08 86.36)
 		)
 		(stroke
@@ -6208,17 +6198,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 110.49) (xy 48.26 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91465c38-d51e-4d35-9e7e-2d772e66a040")
-	)
-	(wire
-		(pts
-			(xy 21.59 110.49) (xy 19.05 110.49)
+			(xy 46.99 114.3) (xy 44.45 114.3)
 		)
 		(stroke
 			(width 0)
@@ -6528,16 +6508,6 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 125.73) (xy 48.26 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4ff38f5-af22-4264-85e9-657d28771994")
-	)
-	(wire
-		(pts
 			(xy 107.95 78.74) (xy 124.46 78.74)
 		)
 		(stroke
@@ -6798,16 +6768,6 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 140.97) (xy 48.26 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9c68606-076a-424c-ad06-c6786523c045")
-	)
-	(wire
-		(pts
 			(xy 179.07 127) (xy 179.07 129.54)
 		)
 		(stroke
@@ -7042,17 +7002,6 @@
 		)
 		(uuid "32a47639-9f31-4d92-bced-01b6f2f0761c")
 	)
-	(label "ZEROBTN"
-		(at 44.45 156.21 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3da3366c-fb3c-4d1f-84b9-5e42e60d3b6a")
-	)
 	(label "VUSB"
 		(at 111.76 144.78 180)
 		(fields_autoplaced yes)
@@ -7064,17 +7013,6 @@
 		)
 		(uuid "3e2e016b-b11a-49d2-8238-e24603296d40")
 	)
-	(label "PB08"
-		(at 256.54 91.44 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4b72a2b2-a69a-4982-b64f-77f14e51f059")
-	)
 	(label "ZOOM"
 		(at 147.32 143.51 180)
 		(fields_autoplaced yes)
@@ -7085,17 +7023,6 @@
 			(justify right bottom)
 		)
 		(uuid "4bcde617-ffc9-4f90-a7b8-f1be79b25b9f")
-	)
-	(label "PB09"
-		(at 256.54 88.9 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "510a4eab-3b20-47f6-aa97-d761ba81d1e9")
 	)
 	(label "VIN"
 		(at 119.38 38.1 90)
@@ -7130,50 +7057,6 @@
 		)
 		(uuid "6e6e369d-8bae-408f-9da2-1cf3d811693b")
 	)
-	(label "PA04"
-		(at 231.14 86.36 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "7154fa5a-1c60-4995-8db8-bcae88f6e7d8")
-	)
-	(label "PA05"
-		(at 231.14 88.9 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "81492fe7-9b2b-4c9f-b629-29b1365f58dd")
-	)
-	(label "PA08"
-		(at 231.14 96.52 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "83049c53-d5fc-476e-83c2-51d06fba3c2e")
-	)
-	(label "+24V"
-		(at 54.61 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8795ffb5-067b-43ef-a22d-d0fec03437e7")
-	)
 	(label "Net-(IC1-V+)"
 		(at 107.95 97.79 90)
 		(fields_autoplaced yes)
@@ -7195,17 +7078,6 @@
 			(justify right bottom)
 		)
 		(uuid "8ddd7419-9130-4c8f-aae0-2c31381fbd7f")
-	)
-	(label "PA06"
-		(at 231.14 91.44 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "91f63a6b-a185-43ec-a501-d01b6bfc1248")
 	)
 	(label "Net-(J8-CC2)"
 		(at 107.95 154.94 0)
@@ -7317,17 +7189,6 @@
 		)
 		(uuid "c52dd68d-4c71-4a32-a6db-c33f4aabc988")
 	)
-	(label "ZREF"
-		(at 54.61 59.69 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c80b24d1-33f5-46b3-9bdb-be2e6760b5b3")
-	)
 	(label "TOUT1"
 		(at 134.62 86.36 180)
 		(fields_autoplaced yes)
@@ -7339,39 +7200,6 @@
 		)
 		(uuid "c8fc29ad-009b-43ed-8a73-96cd86109485")
 	)
-	(label "TOUT1"
-		(at 54.61 88.9 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "cb0e15d6-88f5-4ba0-b8a2-5b0f3ce27d69")
-	)
-	(label "+24V"
-		(at 54.61 54.61 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d1190db4-f788-4a36-b08a-9ff6e49d2898")
-	)
-	(label "ZOOM"
-		(at 54.61 62.23 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d2e8a5b2-437d-4c50-ba85-8d23c6abc427")
-	)
 	(label "VUSB"
 		(at 111.76 147.32 180)
 		(fields_autoplaced yes)
@@ -7382,28 +7210,6 @@
 			(justify right bottom)
 		)
 		(uuid "f4235048-88df-40f4-bb9a-5e1346e69306")
-	)
-	(label "RIN1"
-		(at 54.61 86.36 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f85e0c80-d7e3-4bb0-b32e-bdac1fd60c5c")
-	)
-	(label "TXLED"
-		(at 231.14 119.38 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fabc3734-f161-4b5c-8642-f56c2b27b3a0")
 	)
 	(global_label "SWDIO"
 		(shape input)
@@ -7423,6 +7229,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TXLED"
+		(shape input)
+		(at 231.14 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "07683da5-69d8-41fe-8106-0de1693c6cdd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 222.5306 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7471,28 +7299,6 @@
 			)
 		)
 	)
-	(global_label "ZEROB1"
-		(shape input)
-		(at 44.45 153.67 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "12323c6d-aa25-49ec-8f7d-06902c53062e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.8737 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "MOSI"
 		(shape input)
 		(at 259.08 86.36 0)
@@ -7506,28 +7312,6 @@
 		(uuid "132a3cdb-9896-47ed-9c03-0e92f10df0b0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 266.6614 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RSTB1"
-		(shape input)
-		(at 44.45 107.95 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "188af6aa-ae8b-41d7-a81e-c5c60737a131")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 53.3618 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7581,28 +7365,6 @@
 			)
 		)
 	)
-	(global_label "RSTB2"
-		(shape input)
-		(at 21.59 107.95 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "220df75e-eb72-4f06-b459-e84be3ca07aa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 12.6782 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "TOUT1"
 		(shape input)
 		(at 132.08 101.6 270)
@@ -7621,28 +7383,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOFTB1"
-		(shape input)
-		(at 44.45 138.43 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "356d71f2-649b-4cf1-8723-306152a20d6c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.5109 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -7687,6 +7427,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "OLED_RST"
+		(shape input)
+		(at 231.14 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "40877c7c-a3b9-40b0-a1c7-b51a609f66bd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 218.9625 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7933,28 +7695,6 @@
 			)
 		)
 	)
-	(global_label "ZEROBTN"
-		(shape input)
-		(at 48.26 156.21 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7a6bdfe7-57db-4c9d-a3c8-ecb6fe8eb693")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.7723 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "RUN"
 		(shape input)
 		(at 227.33 99.06 180)
@@ -8023,7 +7763,7 @@
 	)
 	(global_label "SOFTBTN"
 		(shape input)
-		(at 48.26 140.97 0)
+		(at 46.99 142.24 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8033,7 +7773,7 @@
 		)
 		(uuid "8e7bc83c-086f-48f7-ac25-d323764c3d41")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.4095 140.97 0)
+			(at 46.99 131.0905 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8045,7 +7785,7 @@
 	)
 	(global_label "SETBTN"
 		(shape input)
-		(at 48.26 125.73 0)
+		(at 46.99 127 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8055,7 +7795,7 @@
 		)
 		(uuid "91d99fcb-b796-4837-aa7d-059233644fb7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 58.1394 125.73 0)
+			(at 46.99 117.1206 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8083,28 +7823,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SETB1"
-		(shape input)
-		(at 44.45 123.19 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9436ba96-5792-4deb-9087-30083737a667")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 53.2408 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -8241,28 +7959,6 @@
 			)
 		)
 	)
-	(global_label "SETB2"
-		(shape input)
-		(at 21.59 123.19 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b01e860d-a06c-429c-a8d6-41a1f6ca9c0a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 12.7992 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SCL"
 		(shape input)
 		(at 259.08 114.3 0)
@@ -8281,28 +7977,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SOFTB2"
-		(shape input)
-		(at 21.59 138.43 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b936d3b8-5d46-4571-99f9-55378356aee3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 11.5291 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -8364,28 +8038,6 @@
 		(uuid "c5b491e2-b398-44f0-a1d2-460ec73f36e4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 161.29 155.869 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ZEROB2"
-		(shape input)
-		(at 21.59 153.67 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ca8630a8-8f9b-4b05-92d3-97f33592bd71")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 11.1663 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8507,7 +8159,7 @@
 	)
 	(global_label "RST"
 		(shape input)
-		(at 48.26 110.49 0)
+		(at 46.99 111.76 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8517,7 +8169,7 @@
 		)
 		(uuid "ec328f8f-4c66-461a-9fad-8a04bbad4f3a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.6923 110.49 0)
+			(at 46.99 105.3277 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8753,7 +8405,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "530480510:CON_530480510_MOL"
+		(property "Footprint" "Connector_Molex_2:Molex_PicoBlade_53048-0510_1x05_P1.25mm_Horizontal"
 			(at 54.61 54.61 0)
 			(effects
 				(font
@@ -8832,7 +8484,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 212.09 143.51 0)
 			(effects
 				(font
@@ -9100,7 +8752,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 270.2052 69.85 0)
 			(effects
 				(font
@@ -9300,7 +8952,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MAX3323EEPE+:DIP794W56P254L1918H457Q16N"
+		(property "Footprint" "Package_SO:TSSOP-16_4.4x5mm_P0.65mm"
 			(at 166.37 68.58 0)
 			(effects
 				(font
@@ -9571,7 +9223,7 @@
 	)
 	(symbol
 		(lib_id "PVA1EEH21_2NV2:PVA1EEH21.2NV2")
-		(at 21.59 123.19 0)
+		(at 46.99 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9580,7 +9232,7 @@
 		(fields_autoplaced yes)
 		(uuid "4e746c75-c20f-4b34-80dc-cdfa1d53f0a4")
 		(property "Reference" "S2"
-			(at 33.02 115.57 0)
+			(at 58.42 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9588,7 +9240,7 @@
 			)
 		)
 		(property "Value" "SET"
-			(at 33.02 118.11 0)
+			(at 58.42 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9596,7 +9248,7 @@
 			)
 		)
 		(property "Footprint" "PVA1EEH21.2NV2:PVA1EEH212NV2"
-			(at 40.64 218.11 0)
+			(at 66.04 221.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9606,7 +9258,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ckswitches.com/media/1343/pva.pdf"
-			(at 40.64 318.11 0)
+			(at 66.04 321.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9616,7 +9268,7 @@
 			)
 		)
 		(property "Description" "Pushbutton Switches Short Stroke Key Pushbutton Switch 3 W DC, 32, VDC, 100mA"
-			(at 21.59 123.19 0)
+			(at 46.99 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9625,7 +9277,7 @@
 			)
 		)
 		(property "Height" "17.74"
-			(at 40.64 518.11 0)
+			(at 66.04 521.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9635,7 +9287,7 @@
 			)
 		)
 		(property "Mouser Part Number" "611-PVA1EEH212NV2"
-			(at 40.64 618.11 0)
+			(at 66.04 621.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9645,7 +9297,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PVA1EEH212NV2?qs=%252B1mt6%252Bz2kvwAMQpJkAPr%252BQ%3D%3D"
-			(at 40.64 718.11 0)
+			(at 66.04 721.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9655,7 +9307,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "C & K COMPONENTS"
-			(at 40.64 818.11 0)
+			(at 66.04 821.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9665,7 +9317,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "PVA1EEH21.2NV2"
-			(at 40.64 918.11 0)
+			(at 66.04 921.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9868,7 +9520,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 108.9152 90.17 0)
 			(effects
 				(font
@@ -10103,7 +9755,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "0.33uF,60V+"
+		(property "Value" "20uF,60V+"
 			(at 123.19 43.1799 0)
 			(effects
 				(font
@@ -10112,7 +9764,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 118.4148 38.1 0)
 			(effects
 				(font
@@ -10179,7 +9831,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 104.14 156.718 90)
 			(effects
 				(font
@@ -10289,7 +9941,7 @@
 	)
 	(symbol
 		(lib_id "PVA1EEH21_2NV2:PVA1EEH21.2NV2")
-		(at 21.59 138.43 0)
+		(at 46.99 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10298,7 +9950,7 @@
 		(fields_autoplaced yes)
 		(uuid "67e87436-9d92-4b70-bedc-1f41023d0c80")
 		(property "Reference" "S3"
-			(at 33.02 130.81 0)
+			(at 58.42 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10306,7 +9958,7 @@
 			)
 		)
 		(property "Value" "SOFT"
-			(at 33.02 133.35 0)
+			(at 58.42 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10314,7 +9966,7 @@
 			)
 		)
 		(property "Footprint" "PVA1EEH21.2NV2:PVA1EEH212NV2"
-			(at 40.64 233.35 0)
+			(at 66.04 237.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10324,7 +9976,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ckswitches.com/media/1343/pva.pdf"
-			(at 40.64 333.35 0)
+			(at 66.04 337.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10334,7 +9986,7 @@
 			)
 		)
 		(property "Description" "Pushbutton Switches Short Stroke Key Pushbutton Switch 3 W DC, 32, VDC, 100mA"
-			(at 21.59 138.43 0)
+			(at 46.99 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10343,7 +9995,7 @@
 			)
 		)
 		(property "Height" "17.74"
-			(at 40.64 533.35 0)
+			(at 66.04 537.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10353,7 +10005,7 @@
 			)
 		)
 		(property "Mouser Part Number" "611-PVA1EEH212NV2"
-			(at 40.64 633.35 0)
+			(at 66.04 637.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10363,7 +10015,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PVA1EEH212NV2?qs=%252B1mt6%252Bz2kvwAMQpJkAPr%252BQ%3D%3D"
-			(at 40.64 733.35 0)
+			(at 66.04 737.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10373,7 +10025,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "C & K COMPONENTS"
-			(at 40.64 833.35 0)
+			(at 66.04 837.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10383,7 +10035,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "PVA1EEH21.2NV2"
-			(at 40.64 933.35 0)
+			(at 66.04 937.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10507,7 +10159,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_1812_4532Metric_Pad1.30x3.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 97.79 29.21 0)
 			(effects
 				(font
@@ -10616,132 +10268,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PVA1EEH21_2NV2:PVA1EEH21.2NV2")
-		(at 21.59 153.67 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7a54aea1-8559-4404-9573-ef64bc9b28e6")
-		(property "Reference" "S4"
-			(at 33.02 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ZERO"
-			(at 33.02 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PVA1EEH21.2NV2:PVA1EEH212NV2"
-			(at 40.64 248.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ckswitches.com/media/1343/pva.pdf"
-			(at 40.64 348.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Pushbutton Switches Short Stroke Key Pushbutton Switch 3 W DC, 32, VDC, 100mA"
-			(at 21.59 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "17.74"
-			(at 40.64 548.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "611-PVA1EEH212NV2"
-			(at 40.64 648.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PVA1EEH212NV2?qs=%252B1mt6%252Bz2kvwAMQpJkAPr%252BQ%3D%3D"
-			(at 40.64 748.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "C & K COMPONENTS"
-			(at 40.64 848.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "PVA1EEH21.2NV2"
-			(at 40.64 948.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "B2"
-			(uuid "93969978-e1a0-44ef-b6a1-d704c37a533d")
-		)
-		(pin "B1"
-			(uuid "f8cae75e-5e68-4fc3-ab16-2fa52648847d")
-		)
-		(pin "A1"
-			(uuid "23fc9f1a-a891-433b-a02e-a20eb32843af")
-		)
-		(pin "A2"
-			(uuid "aacbce20-f9ba-413f-9acc-53d48f0f9318")
-		)
-		(instances
-			(project "Standalone"
-				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
-					(reference "S4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+24V")
 		(at 97.79 22.86 0)
 		(unit 1)
@@ -10833,7 +10359,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 152.4 128.778 90)
 			(effects
 				(font
@@ -10903,7 +10429,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_1812_4532Metric_Pad1.30x3.40mm_HandSolder"
+		(property "Footprint" "Diode_SMD:D_1206_3216Metric"
 			(at 105.41 29.21 0)
 			(effects
 				(font
@@ -10940,6 +10466,76 @@
 			(project "Standalone"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 175.26 38.1 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8c49f422-9b7e-4896-bee5-d09b02080d0c")
+		(property "Reference" "C13"
+			(at 179.07 36.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "20uF,60V+"
+			(at 179.07 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 174.2948 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 175.26 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "000ec03d-98c9-481e-8eae-5c2e35c8b388")
+		)
+		(pin "2"
+			(uuid "b9ba9ca8-36da-44bb-8828-d48c604d6191")
+		)
+		(instances
+			(project "Production"
+				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -11307,7 +10903,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 104.14 154.178 90)
 			(effects
 				(font
@@ -11482,6 +11078,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 175.26 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b6177036-3480-48a3-9598-d0c38608fb65")
+		(property "Reference" "#PWR040"
+			(at 175.26 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 175.26 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fe370edb-9e49-4011-aede-ea7aed2ba80a")
+		)
+		(instances
+			(project "Production"
+				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 201.93 143.51 90)
 		(unit 1)
@@ -11507,7 +11169,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 201.93 145.288 90)
 			(effects
 				(font
@@ -11577,7 +11239,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 121.6152 105.41 0)
 			(effects
 				(font
@@ -11647,7 +11309,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 108.9152 77.47 0)
 			(effects
 				(font
@@ -11691,7 +11353,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 19.05 162.56 0)
+		(at 44.45 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11700,7 +11362,7 @@
 		(fields_autoplaced yes)
 		(uuid "c66eb17b-0b88-4572-8361-d307c326fa1a")
 		(property "Reference" "#PWR01"
-			(at 19.05 168.91 0)
+			(at 44.45 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11709,7 +11371,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 19.05 167.64 0)
+			(at 44.45 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11717,7 +11379,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 19.05 162.56 0)
+			(at 44.45 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11726,7 +11388,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 19.05 162.56 0)
+			(at 44.45 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11735,7 +11397,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 19.05 162.56 0)
+			(at 44.45 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11781,7 +11443,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 151.13 145.288 90)
 			(effects
 				(font
@@ -11915,7 +11577,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 167.64 145.288 90)
 			(effects
 				(font
@@ -11959,7 +11621,7 @@
 	)
 	(symbol
 		(lib_id "PVA1EEH21_2NV2:PVA1EEH21.2NV2")
-		(at 21.59 107.95 0)
+		(at 46.99 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11968,7 +11630,7 @@
 		(fields_autoplaced yes)
 		(uuid "d754e3ad-8734-4938-8055-eb48c7e6a1e5")
 		(property "Reference" "S1"
-			(at 33.02 100.33 0)
+			(at 58.42 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11976,7 +11638,7 @@
 			)
 		)
 		(property "Value" "RESET"
-			(at 33.02 102.87 0)
+			(at 58.42 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11984,7 +11646,7 @@
 			)
 		)
 		(property "Footprint" "PVA1EEH21.2NV2:PVA1EEH212NV2"
-			(at 40.64 202.87 0)
+			(at 66.04 206.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11994,7 +11656,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.ckswitches.com/media/1343/pva.pdf"
-			(at 40.64 302.87 0)
+			(at 66.04 306.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12004,7 +11666,7 @@
 			)
 		)
 		(property "Description" "Pushbutton Switches Short Stroke Key Pushbutton Switch 3 W DC, 32, VDC, 100mA"
-			(at 21.59 107.95 0)
+			(at 46.99 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12013,7 +11675,7 @@
 			)
 		)
 		(property "Height" "17.74"
-			(at 40.64 502.87 0)
+			(at 66.04 506.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12023,7 +11685,7 @@
 			)
 		)
 		(property "Mouser Part Number" "611-PVA1EEH212NV2"
-			(at 40.64 602.87 0)
+			(at 66.04 606.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12033,7 +11695,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PVA1EEH212NV2?qs=%252B1mt6%252Bz2kvwAMQpJkAPr%252BQ%3D%3D"
-			(at 40.64 702.87 0)
+			(at 66.04 706.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12043,7 +11705,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "C & K COMPONENTS"
-			(at 40.64 802.87 0)
+			(at 66.04 806.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12053,7 +11715,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "PVA1EEH21.2NV2"
-			(at 40.64 902.87 0)
+			(at 66.04 906.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12109,7 +11771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 223.52 63.8048 0)
 			(effects
 				(font
@@ -12176,7 +11838,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 223.52 68.8848 0)
 			(effects
 				(font
@@ -12246,7 +11908,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "digikey-footprints:TQFP-48_7x7mm"
+		(property "Footprint" "Package_QFP:TQFP-48_7x7mm_P0.5mm"
 			(at 248.92 99.06 0)
 			(effects
 				(font
@@ -12660,7 +12322,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 165.1 127 0)
 			(effects
 				(font
@@ -12862,7 +12524,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "530480410:CON_530480410_MOL"
+		(property "Footprint" "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal"
 			(at 54.61 81.28 0)
 			(effects
 				(font
@@ -13006,7 +12668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 108.9152 105.41 0)
 			(effects
 				(font
@@ -13145,7 +12807,7 @@
 			)
 		)
 		(instances
-			(project "Standalone"
+			(project "Production"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(page "3")
 				)
@@ -13183,7 +12845,7 @@
 			)
 		)
 		(instances
-			(project "Standalone"
+			(project "Production"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(page "2")
 				)

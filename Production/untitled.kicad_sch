@@ -1440,16 +1440,27 @@
 		)
 		(uuid "fffcf98a-5711-4270-86e7-086987da4555")
 	)
-	(label "OLED_RST"
-		(at 106.68 68.58 180)
+	(global_label "OLED_RST"
+		(shape input)
+		(at 107.95 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left)
 		)
-		(uuid "6719e2e0-e813-45b7-baed-d1c6f0f77b8b")
+		(uuid "10eb8cbd-14f8-4e4c-b96a-abb85b5bf585")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 120.1275 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(global_label "OLED_DC"
 		(shape input)
@@ -1564,7 +1575,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 95.25 60.198 90)
 			(effects
 				(font
@@ -1954,7 +1965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 91.44 70.358 90)
 			(effects
 				(font
@@ -2021,7 +2032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 87.63 49.8348 0)
 			(effects
 				(font
@@ -2157,7 +2168,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 87.9348 82.55 0)
 			(effects
 				(font
@@ -2292,7 +2303,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 101.9048 91.44 0)
 			(effects
 				(font
@@ -2360,7 +2371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 90.17 55.5752 0)
 			(effects
 				(font
