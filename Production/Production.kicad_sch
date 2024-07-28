@@ -6443,16 +6443,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 127) (xy 179.07 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90be4cbf-214d-462c-adc7-873725f282eb")
-	)
-	(wire
-		(pts
 			(xy 44.45 114.3) (xy 53.34 114.3)
 		)
 		(stroke
@@ -6793,16 +6783,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 127) (xy 161.29 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc1a3696-d5b0-489e-8b0c-b725dc22d272")
-	)
-	(wire
-		(pts
 			(xy 213.36 69.85) (xy 213.36 71.12)
 		)
 		(stroke
@@ -6880,16 +6860,6 @@
 			(type default)
 		)
 		(uuid "c725b10b-8731-4aef-94d5-c7683d5d0032")
-	)
-	(wire
-		(pts
-			(xy 143.51 127) (xy 148.59 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7616723-d865-45fe-949f-2cb6c19d084d")
 	)
 	(wire
 		(pts
@@ -7020,16 +6990,6 @@
 			(type default)
 		)
 		(uuid "d9943c0f-1049-4711-ba6b-39ea7bee70e0")
-	)
-	(wire
-		(pts
-			(xy 179.07 127) (xy 179.07 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ddcdccc8-6f3a-412e-b664-68da79d34626")
 	)
 	(wire
 		(pts
@@ -7173,16 +7133,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 96.52) (xy 260.35 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fdb4988e-730e-4e4d-8ee0-0557676203bb")
-	)
-	(wire
-		(pts
 			(xy 246.38 55.88) (xy 246.38 58.42)
 		)
 		(stroke
@@ -7223,17 +7173,6 @@
 			(justify left bottom)
 		)
 		(uuid "09bd535e-0a5a-4472-86ea-c7cd0f3041db")
-	)
-	(label "Net-(D1-A)"
-		(at 156.21 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1f1ca3f0-1a95-42fb-9cf5-b1c984ae4e0e")
 	)
 	(label "Net-(J8-CC2)"
 		(at 111.76 154.94 180)
@@ -7411,17 +7350,6 @@
 		)
 		(uuid "b543bbf6-edab-401f-90cf-cf5d09fe0bf0")
 	)
-	(label "Net-(D1-A)"
-		(at 161.29 127 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b693af68-d40d-4a84-a5e4-e81aaf253bb1")
-	)
 	(label "Net-(IC1-V-)"
 		(at 134.62 83.82 180)
 		(fields_autoplaced yes)
@@ -7484,28 +7412,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TXLED"
-		(shape input)
-		(at 231.14 119.38 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "07683da5-69d8-41fe-8106-0de1693c6cdd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 222.5306 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -7666,22 +7572,22 @@
 	)
 	(global_label "SETLED"
 		(shape input)
-		(at 260.35 96.52 0)
+		(at 231.14 119.38 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "3f3ec238-899e-4f92-9a93-72767ad54e46")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 270.1084 96.52 0)
+			(at 221.3816 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7919,28 +7825,6 @@
 		(uuid "709e2b78-aa28-4089-a0c4-fa1f7478e86f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 213.8823 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SETLED"
-		(shape input)
-		(at 143.51 127 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "70c8214f-2209-4f76-bf42-bd874a9b90e8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.7516 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8469,28 +8353,6 @@
 		(uuid "fcf3a372-3f9d-461e-a9c3-7008d75a6cb7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 265.8147 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TXLED"
-		(shape input)
-		(at 260.35 106.68 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "fd63c64c-f9bb-48be-af3c-2de97438d8d8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 268.9594 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10589,74 +10451,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 152.4 127 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "84ab6fca-321a-42c6-988c-ca4a9efc14df")
-		(property "Reference" "R4"
-			(at 152.4 120.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "65"
-			(at 152.4 123.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 152.4 128.778 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 152.4 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 152.4 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4e918665-b907-4fb3-a49f-d2dd06f19e5b")
-		)
-		(pin "2"
-			(uuid "027bb068-f464-4db9-95c0-f8cae25f4382")
-		)
-		(instances
-			(project "Standalone"
-				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
-					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D_Schottky")
 		(at 105.41 29.21 90)
 		(unit 1)
@@ -10791,72 +10585,6 @@
 			(project "Production"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "C13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 179.07 129.54 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8da3459c-58ec-42fb-b6e2-8e3d9e2ddfa2")
-		(property "Reference" "#PWR019"
-			(at 179.07 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 179.07 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 179.07 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 179.07 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 179.07 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "89a05493-276c-48f9-a16e-772689ba48ab")
-		)
-		(instances
-			(project "Standalone"
-				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
-					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -11829,6 +11557,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "4K7"
@@ -11963,6 +11692,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "3K3"
@@ -12561,74 +12291,6 @@
 			(project "Standalone"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 165.1 127 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e43755e3-322d-4a81-9559-cb0142b4a846")
-		(property "Reference" "D3"
-			(at 166.6875 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 166.6875 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
-			(at 165.1 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 165.1 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 165.1 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "eb8ca361-59b4-4902-878b-96b3eb554c18")
-		)
-		(pin "2"
-			(uuid "4f0533ae-c909-4f77-b360-e2a529c80a6a")
-		)
-		(instances
-			(project "Standalone"
-				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
-					(reference "D3")
 					(unit 1)
 				)
 			)
