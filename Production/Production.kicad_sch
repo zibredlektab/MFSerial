@@ -2862,12 +2862,12 @@
 				)
 			)
 		)
-		(symbol "PVA1EEH21_2NV2:PVA1EEH21.2NV2"
+		(symbol "TS01-66-73-BK-160-D:TS01-66-73-BK-160-D"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "S"
-				(at 19.05 7.62 0)
+				(at 26.67 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2875,8 +2875,8 @@
 					(justify left top)
 				)
 			)
-			(property "Value" "PVA1EEH21.2NV2"
-				(at 19.05 5.08 0)
+			(property "Value" "TS01-66-73-BK-160-D"
+				(at 26.67 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2884,18 +2884,8 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "PVA1EEH212NV2"
-				(at 19.05 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://www.ckswitches.com/media/1343/pva.pdf"
-				(at 19.05 -194.92 0)
+			(property "Footprint" "TS016673BK160D"
+				(at 26.67 -94.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2904,7 +2894,17 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Pushbutton Switches Short Stroke Key Pushbutton Switch 3 W DC, 32, VDC, 100mA"
+			(property "Datasheet" "https://www.mouser.ch/ProductDetail/CUI-Devices/TS01-66-73-BK-160-D?qs=A6eO%252BMLsxmRZqzcqxys3CA%3D%3D"
+				(at 26.67 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Tactile Switches 6 x 6 mm, 7.3 mm Act Height, 160 gf, Black, Long Crimped, Through Hole, SPST,"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2913,8 +2913,8 @@
 					(hide yes)
 				)
 			)
-			(property "Height" "17.74"
-				(at 19.05 -394.92 0)
+			(property "Height" "7.5"
+				(at 26.67 -394.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2923,8 +2923,8 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser Part Number" "611-PVA1EEH212NV2"
-				(at 19.05 -494.92 0)
+			(property "Mouser Part Number" "179-TS016673BK160D"
+				(at 26.67 -494.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2933,8 +2933,8 @@
 					(hide yes)
 				)
 			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PVA1EEH212NV2?qs=%252B1mt6%252Bz2kvwAMQpJkAPr%252BQ%3D%3D"
-				(at 19.05 -594.92 0)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/TS01-66-73-BK-160-D?qs=A6eO%252BMLsxmRZqzcqxys3CA%3D%3D"
+				(at 26.67 -594.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2943,8 +2943,8 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Name" "C & K COMPONENTS"
-				(at 19.05 -694.92 0)
+			(property "Manufacturer_Name" "CUI Devices"
+				(at 26.67 -694.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2953,8 +2953,8 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Part_Number" "PVA1EEH21.2NV2"
-				(at 19.05 -794.92 0)
+			(property "Manufacturer_Part_Number" "TS01-66-73-BK-160-D"
+				(at 26.67 -794.92 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2963,10 +2963,10 @@
 					(hide yes)
 				)
 			)
-			(symbol "PVA1EEH21.2NV2_1_1"
+			(symbol "TS01-66-73-BK-160-D_1_1"
 				(rectangle
 					(start 5.08 2.54)
-					(end 17.78 -5.08)
+					(end 25.4 -5.08)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -2976,16 +2976,34 @@
 					)
 				)
 				(pin passive line
-					(at 22.86 -2.54 180)
+					(at 0 0 0)
 					(length 5.08)
-					(name "A1"
+					(name "NO_1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "A1"
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 30.48 0 180)
+					(length 5.08)
+					(name "NO_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2996,32 +3014,14 @@
 				(pin passive line
 					(at 0 -2.54 0)
 					(length 5.08)
-					(name "A2"
+					(name "COM_1"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "A2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 22.86 0 180)
-					(length 5.08)
-					(name "B1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B1"
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3030,16 +3030,16 @@
 					)
 				)
 				(pin passive line
-					(at 0 0 0)
+					(at 30.48 -2.54 180)
 					(length 5.08)
-					(name "B2"
+					(name "COM_2"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "B2"
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4530,6 +4530,261 @@
 						)
 					)
 					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "dk_Tactile-Switches:B3U-1000P"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "S"
+				(at 0 4.064 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "B3U-1000P"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "digikey-footprints:Switch_Tactile_SMD_B3U-1000P"
+				(at 5.08 5.08 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf"
+				(at 5.08 7.62 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "SWITCH TACTILE SPST-NO 0.05A 12V"
+				(at 5.08 25.4 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN" "B3U-1000P"
+				(at 5.08 12.7 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Category" "Switches"
+				(at 5.08 15.24 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Family" "Tactile Switches"
+				(at 5.08 17.78 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "DK_Datasheet_Link" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf"
+				(at 5.08 20.32 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "DK_Detail_Page" "/product-detail/en/omron-electronics-inc-emc-div/B3U-1000P/SW1020CT-ND/1534357"
+				(at 5.08 22.86 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "Omron Electronics Inc-EMC Div"
+				(at 5.08 27.94 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Status" "Active"
+				(at 5.08 30.48 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "SW1020CT-ND B3U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "B3U-1000P_0_1"
+				(circle
+					(center -1.524 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -1.778 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.27) (xy 1.778 1.27)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 2.794) (xy 1.016 2.794)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0 2.794)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 1.778 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.524 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "B3U-1000P_1_1"
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6198,7 +6453,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 114.3) (xy 44.45 114.3)
+			(xy 44.45 114.3) (xy 53.34 114.3)
 		)
 		(stroke
 			(width 0)
@@ -8159,7 +8414,7 @@
 	)
 	(global_label "RST"
 		(shape input)
-		(at 46.99 111.76 90)
+		(at 63.5 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8169,7 +8424,7 @@
 		)
 		(uuid "ec328f8f-4c66-461a-9fad-8a04bbad4f3a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 46.99 105.3277 90)
+			(at 69.9323 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9090,6 +9345,132 @@
 		)
 	)
 	(symbol
+		(lib_id "TS01-66-73-BK-160-D:TS01-66-73-BK-160-D")
+		(at 46.99 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "34b2ca0e-9d61-465c-b85f-b3af35fc9c06")
+		(property "Reference" "SOFT1"
+			(at 62.23 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TS01-66-73-BK-160-D"
+			(at 62.23 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TS01-66-73-BK-160-D:TS016673BK160D"
+			(at 73.66 237.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.ch/ProductDetail/CUI-Devices/TS01-66-73-BK-160-D?qs=A6eO%252BMLsxmRZqzcqxys3CA%3D%3D"
+			(at 73.66 337.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Tactile Switches 6 x 6 mm, 7.3 mm Act Height, 160 gf, Black, Long Crimped, Through Hole, SPST,"
+			(at 46.99 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "7.5"
+			(at 73.66 537.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "179-TS016673BK160D"
+			(at 73.66 637.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/TS01-66-73-BK-160-D?qs=A6eO%252BMLsxmRZqzcqxys3CA%3D%3D"
+			(at 73.66 737.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "CUI Devices"
+			(at 73.66 837.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "TS01-66-73-BK-160-D"
+			(at 73.66 937.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "69e1f938-80e2-4ec0-b41a-33048b52a63d")
+		)
+		(pin "2"
+			(uuid "5007150f-9770-4903-b639-adf7f9b58494")
+		)
+		(pin "4"
+			(uuid "32264c6a-8912-41de-8e45-c444c230dd4a")
+		)
+		(pin "1"
+			(uuid "500594e0-1f91-428b-aea6-a273d5162e68")
+		)
+		(instances
+			(project ""
+				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
+					(reference "SOFT1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 213.36 71.12 0)
 		(unit 1)
@@ -9222,7 +9603,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PVA1EEH21_2NV2:PVA1EEH21.2NV2")
+		(lib_id "TS01-66-73-BK-160-D:TS01-66-73-BK-160-D")
 		(at 46.99 127 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9230,35 +9611,25 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4e746c75-c20f-4b34-80dc-cdfa1d53f0a4")
-		(property "Reference" "S2"
-			(at 58.42 119.38 0)
+		(uuid "48c71035-2f26-411d-a8b1-74c8eddd482c")
+		(property "Reference" "SET1"
+			(at 62.23 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "SET"
-			(at 58.42 121.92 0)
+		(property "Value" "TS01-66-73-BK-160-D"
+			(at 62.23 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "PVA1EEH21.2NV2:PVA1EEH212NV2"
-			(at 66.04 221.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ckswitches.com/media/1343/pva.pdf"
-			(at 66.04 321.92 0)
+		(property "Footprint" "TS01-66-73-BK-160-D:TS016673BK160D"
+			(at 73.66 221.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9267,7 +9638,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Pushbutton Switches Short Stroke Key Pushbutton Switch 3 W DC, 32, VDC, 100mA"
+		(property "Datasheet" "https://www.mouser.ch/ProductDetail/CUI-Devices/TS01-66-73-BK-160-D?qs=A6eO%252BMLsxmRZqzcqxys3CA%3D%3D"
+			(at 73.66 321.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Tactile Switches 6 x 6 mm, 7.3 mm Act Height, 160 gf, Black, Long Crimped, Through Hole, SPST,"
 			(at 46.99 127 0)
 			(effects
 				(font
@@ -9276,8 +9657,8 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "17.74"
-			(at 66.04 521.92 0)
+		(property "Height" "7.5"
+			(at 73.66 521.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9286,8 +9667,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "611-PVA1EEH212NV2"
-			(at 66.04 621.92 0)
+		(property "Mouser Part Number" "179-TS016673BK160D"
+			(at 73.66 621.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9296,8 +9677,8 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PVA1EEH212NV2?qs=%252B1mt6%252Bz2kvwAMQpJkAPr%252BQ%3D%3D"
-			(at 66.04 721.92 0)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/TS01-66-73-BK-160-D?qs=A6eO%252BMLsxmRZqzcqxys3CA%3D%3D"
+			(at 73.66 721.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9306,8 +9687,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "C & K COMPONENTS"
-			(at 66.04 821.92 0)
+		(property "Manufacturer_Name" "CUI Devices"
+			(at 73.66 821.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9316,8 +9697,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "PVA1EEH21.2NV2"
-			(at 66.04 921.92 0)
+		(property "Manufacturer_Part_Number" "TS01-66-73-BK-160-D"
+			(at 73.66 921.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9326,22 +9707,22 @@
 				(hide yes)
 			)
 		)
-		(pin "B2"
-			(uuid "93969978-e1a0-44ef-b6a1-d704c37a533b")
+		(pin "2"
+			(uuid "5b9585dc-d04d-463f-aebd-2972707e59b7")
 		)
-		(pin "B1"
-			(uuid "f8cae75e-5e68-4fc3-ab16-2fa52648847b")
+		(pin "3"
+			(uuid "bb2891c7-43f1-4e7a-bb45-512484328d17")
 		)
-		(pin "A1"
-			(uuid "23fc9f1a-a891-433b-a02e-a20eb32843ad")
+		(pin "1"
+			(uuid "1e93985d-a300-4c31-9ef9-7ee863cbb398")
 		)
-		(pin "A2"
-			(uuid "aacbce20-f9ba-413f-9acc-53d48f0f9316")
+		(pin "4"
+			(uuid "be17637a-87b2-4cab-98e0-ba734fd43761")
 		)
 		(instances
-			(project "Standalone"
+			(project ""
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
-					(reference "S2")
+					(reference "SET1")
 					(unit 1)
 				)
 			)
@@ -9934,132 +10315,6 @@
 			(project "Standalone"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR039")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PVA1EEH21_2NV2:PVA1EEH21.2NV2")
-		(at 46.99 142.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "67e87436-9d92-4b70-bedc-1f41023d0c80")
-		(property "Reference" "S3"
-			(at 58.42 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SOFT"
-			(at 58.42 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PVA1EEH21.2NV2:PVA1EEH212NV2"
-			(at 66.04 237.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ckswitches.com/media/1343/pva.pdf"
-			(at 66.04 337.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Pushbutton Switches Short Stroke Key Pushbutton Switch 3 W DC, 32, VDC, 100mA"
-			(at 46.99 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "17.74"
-			(at 66.04 537.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "611-PVA1EEH212NV2"
-			(at 66.04 637.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PVA1EEH212NV2?qs=%252B1mt6%252Bz2kvwAMQpJkAPr%252BQ%3D%3D"
-			(at 66.04 737.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "C & K COMPONENTS"
-			(at 66.04 837.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "PVA1EEH21.2NV2"
-			(at 66.04 937.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "B2"
-			(uuid "93969978-e1a0-44ef-b6a1-d704c37a533c")
-		)
-		(pin "B1"
-			(uuid "f8cae75e-5e68-4fc3-ab16-2fa52648847c")
-		)
-		(pin "A1"
-			(uuid "23fc9f1a-a891-433b-a02e-a20eb32843ae")
-		)
-		(pin "A2"
-			(uuid "aacbce20-f9ba-413f-9acc-53d48f0f9317")
-		)
-		(instances
-			(project "Standalone"
-				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
-					(reference "S3")
 					(unit 1)
 				)
 			)
@@ -11282,6 +11537,147 @@
 		)
 	)
 	(symbol
+		(lib_id "dk_Tactile-Switches:B3U-1000P")
+		(at 58.42 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bdac3c03-159a-471f-9a67-959a9419457c")
+		(property "Reference" "RESET1"
+			(at 58.42 106.68 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "B3U-1000P"
+			(at 58.42 109.22 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
+			(at 63.5 109.22 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf"
+			(at 63.5 106.68 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "SWITCH TACTILE SPST-NO 0.05A 12V"
+			(at 63.5 88.9 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN" "B3U-1000P"
+			(at 63.5 101.6 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Category" "Switches"
+			(at 63.5 99.06 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Family" "Tactile Switches"
+			(at 63.5 96.52 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Datasheet_Link" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf"
+			(at 63.5 93.98 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "DK_Detail_Page" "/product-detail/en/omron-electronics-inc-emc-div/B3U-1000P/SW1020CT-ND/1534357"
+			(at 63.5 91.44 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Omron Electronics Inc-EMC Div"
+			(at 63.5 86.36 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Status" "Active"
+			(at 63.5 83.82 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "57da11d9-0803-4b3b-ba49-a8c7652d5105")
+		)
+		(pin "2"
+			(uuid "c3f98dd1-29e8-4be0-9ab5-7d140a3d85b9")
+		)
+		(instances
+			(project ""
+				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
+					(reference "RESET1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 107.95 73.66 0)
 		(unit 1)
@@ -11614,132 +12010,6 @@
 			(project "Standalone"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "PVA1EEH21_2NV2:PVA1EEH21.2NV2")
-		(at 46.99 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d754e3ad-8734-4938-8055-eb48c7e6a1e5")
-		(property "Reference" "S1"
-			(at 58.42 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "RESET"
-			(at 58.42 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PVA1EEH21.2NV2:PVA1EEH212NV2"
-			(at 66.04 206.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.ckswitches.com/media/1343/pva.pdf"
-			(at 66.04 306.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Pushbutton Switches Short Stroke Key Pushbutton Switch 3 W DC, 32, VDC, 100mA"
-			(at 46.99 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "17.74"
-			(at 66.04 506.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "611-PVA1EEH212NV2"
-			(at 66.04 606.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/PVA1EEH212NV2?qs=%252B1mt6%252Bz2kvwAMQpJkAPr%252BQ%3D%3D"
-			(at 66.04 706.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "C & K COMPONENTS"
-			(at 66.04 806.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "PVA1EEH21.2NV2"
-			(at 66.04 906.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "B2"
-			(uuid "93969978-e1a0-44ef-b6a1-d704c37a533e")
-		)
-		(pin "B1"
-			(uuid "f8cae75e-5e68-4fc3-ab16-2fa52648847e")
-		)
-		(pin "A1"
-			(uuid "23fc9f1a-a891-433b-a02e-a20eb32843b0")
-		)
-		(pin "A2"
-			(uuid "aacbce20-f9ba-413f-9acc-53d48f0f9319")
-		)
-		(instances
-			(project "Standalone"
-				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
-					(reference "S1")
 					(unit 1)
 				)
 			)
