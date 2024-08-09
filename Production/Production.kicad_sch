@@ -10788,7 +10788,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FSM4JH"
+		(property "Footprint" "FSM10JH:FSM4JH"
 			(at 63.5 221.92 0)
 			(effects
 				(font
@@ -12694,7 +12694,7 @@
 				)
 			)
 		)
-		(property "Footprint" "FSM4JH"
+		(property "Footprint" "FSM10JH:FSM4JH"
 			(at 63.5 237.16 0)
 			(effects
 				(font
