@@ -5347,16 +5347,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 104.14) (xy 260.35 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0725f317-dc35-47c6-aade-4f3e6e37b4ba")
-	)
-	(wire
-		(pts
 			(xy 170.18 76.2) (xy 170.18 78.74)
 		)
 		(stroke
@@ -7652,7 +7642,7 @@
 	)
 	(global_label "SCK"
 		(shape input)
-		(at 231.14 88.9 180)
+		(at 231.14 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7662,7 +7652,7 @@
 		)
 		(uuid "4380d141-f94a-4597-96be-654e468a70a1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 224.4053 88.9 0)
+			(at 224.4053 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7960,7 +7950,7 @@
 	)
 	(global_label "ZSIG"
 		(shape input)
-		(at 260.35 104.14 0)
+		(at 256.54 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7970,7 +7960,7 @@
 		)
 		(uuid "9d83e85a-9921-4e5b-b583-12b8b62b88e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 267.629 104.14 0)
+			(at 263.819 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
