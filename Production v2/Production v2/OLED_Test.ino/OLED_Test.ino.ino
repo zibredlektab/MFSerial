@@ -3,11 +3,9 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SH110X.h>
 
-#ifndef OLED_DC
 #define OLED_DC 2
 #define OLED_CS 5
 #define OLED_RST 4
-#endif
 
 Adafruit_SH1106G display = Adafruit_SH1106G(128, 64, &SPI, OLED_DC, OLED_RST, OLED_CS);
 
