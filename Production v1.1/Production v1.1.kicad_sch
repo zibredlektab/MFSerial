@@ -5451,16 +5451,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 106.68) (xy 260.35 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b11ea71-3f91-4fb9-acab-5ee700276a56")
-	)
-	(wire
-		(pts
 			(xy 67.31 144.78) (xy 69.85 144.78)
 		)
 		(stroke
@@ -8014,22 +8004,22 @@
 	)
 	(global_label "ZSIG"
 		(shape input)
-		(at 256.54 96.52 0)
+		(at 231.14 104.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "9d83e85a-9921-4e5b-b583-12b8b62b88e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 263.819 96.52 0)
+			(at 223.861 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -8080,22 +8070,22 @@
 	)
 	(global_label "RUN"
 		(shape input)
-		(at 260.35 106.68 0)
+		(at 231.14 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "aa58bcd4-ee10-48f7-8594-3c4a39ce6a19")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 267.2662 106.68 0)
+			(at 224.2238 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -8444,7 +8434,7 @@
 			(uuid "46a94f68-8d69-4cad-80ce-608dde6aaa6c")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR011")
 					(unit 1)
@@ -8585,7 +8575,7 @@
 			(uuid "cec91828-b8d7-4828-b4aa-3c67b6f647a7")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "IC2")
 					(unit 1)
@@ -8651,7 +8641,7 @@
 			(uuid "31c4e478-ca1d-4826-b63d-5e8536651703")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR014")
 					(unit 1)
@@ -8750,7 +8740,7 @@
 			(uuid "eede8bd1-e686-4325-9716-77b1249e1411")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "J1")
 					(unit 1)
@@ -8836,7 +8826,7 @@
 			(uuid "0f5fc974-ca65-4e6e-a8d0-03a808357282")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "D4")
 					(unit 1)
@@ -8902,7 +8892,7 @@
 			(uuid "56d50bed-c32e-4d32-b773-8b948b37a4a5")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR018")
 					(unit 1)
@@ -8968,7 +8958,7 @@
 			(uuid "cfdb0e39-3023-41c4-9bd6-02cfd937d0bb")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR08")
 					(unit 1)
@@ -9034,7 +9024,7 @@
 			(uuid "470fe9ce-f46d-4884-baa9-1614b7cf8a14")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR03")
 					(unit 1)
@@ -9125,7 +9115,7 @@
 			(uuid "ccdf6b60-da1f-4866-b809-04985815c49c")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "Y1")
 					(unit 1)
@@ -9213,7 +9203,7 @@
 			(uuid "b8fbf2b1-09e6-4903-b6a4-74e52349aa13")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "C8")
 					(unit 1)
@@ -9279,7 +9269,7 @@
 			(uuid "160e9e0f-1bca-4242-bec8-b327557aafdd")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR021")
 					(unit 1)
@@ -9345,7 +9335,7 @@
 			(uuid "803085e0-bd83-4fa8-a2b7-e6ba5a22ca76")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR026")
 					(unit 1)
@@ -9526,7 +9516,7 @@
 			(uuid "0514aed0-392f-4ef6-8eb5-bbabe32700c1")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "IC1")
 					(unit 1)
@@ -9592,7 +9582,7 @@
 			(uuid "d1216954-8ac2-4e05-a218-33b4e6135e99")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR022")
 					(unit 1)
@@ -9658,7 +9648,7 @@
 			(uuid "f2203aec-c2f5-4665-b585-0037d2eeea1c")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR024")
 					(unit 1)
@@ -9755,7 +9745,7 @@
 			(uuid "39bdd268-ff93-43f6-87ab-068208d43450")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "U2")
 					(unit 1)
@@ -9821,7 +9811,7 @@
 			(uuid "bd40ece1-2320-48b5-a8ae-045a4edf55fd")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR016")
 					(unit 1)
@@ -9909,7 +9899,7 @@
 			(uuid "9ce0d379-911e-4c53-a296-404315251c5c")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "C2")
 					(unit 1)
@@ -10101,7 +10091,7 @@
 			(uuid "b91c1bce-66f1-4241-aa44-09b36ab3b667")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "J3")
 					(unit 1)
@@ -10189,7 +10179,7 @@
 			(uuid "b73f0c58-a4b8-4b57-a147-178a879dc3d3")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "C4")
 					(unit 1)
@@ -10222,7 +10212,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 104.14 156.718 90)
 			(effects
 				(font
@@ -10274,7 +10264,7 @@
 			(uuid "18ffcb50-b170-495d-be2d-455c7f98c45b")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "R2")
 					(unit 1)
@@ -10340,7 +10330,7 @@
 			(uuid "ccd94ad1-6024-42a8-b42e-088454ed47ea")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR039")
 					(unit 1)
@@ -10406,7 +10396,7 @@
 			(uuid "85e2c0d2-05d7-4dde-9908-2c80630c257b")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR013")
 					(unit 1)
@@ -10494,7 +10484,7 @@
 			(uuid "b3fcc154-a0c5-4dd0-bfc7-201630d3095a")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "D1")
 					(unit 1)
@@ -10560,7 +10550,7 @@
 			(uuid "5a11d88a-475f-4d5f-ba67-a2898a2a04d1")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR06")
 					(unit 1)
@@ -10626,7 +10616,7 @@
 			(uuid "ff63cd44-977a-451a-8721-3c458cc1fcc1")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR07")
 					(unit 1)
@@ -10714,7 +10704,7 @@
 			(uuid "b3fcc154-a0c5-4dd0-bfc7-201630d3095b")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "D2")
 					(unit 1)
@@ -10802,7 +10792,7 @@
 			(uuid "b9ba9ca8-36da-44bb-8828-d48c604d6191")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "C13")
 					(unit 1)
@@ -10868,7 +10858,7 @@
 			(uuid "6fc7fcf5-1020-4d54-aef4-989820a344e3")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR015")
 					(unit 1)
@@ -10934,7 +10924,7 @@
 			(uuid "a6008df8-e45f-43f7-8e57-1ec867862d96")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR020")
 					(unit 1)
@@ -11000,7 +10990,7 @@
 			(uuid "65eb9198-5627-493b-affe-4ebf83f6ca1f")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR017")
 					(unit 1)
@@ -11066,7 +11056,7 @@
 			(uuid "bb8232cd-9a4a-407c-95d7-9d5ea3338033")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR019")
 					(unit 1)
@@ -11099,7 +11089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 104.14 154.178 90)
 			(effects
 				(font
@@ -11151,7 +11141,7 @@
 			(uuid "158fa82b-0d40-4db5-b383-58bc84f19ff9")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "R1")
 					(unit 1)
@@ -11295,7 +11285,7 @@
 			(uuid "05d7012c-00a1-497f-ac66-2180d0c2bf53")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "S1")
 					(unit 1)
@@ -11361,7 +11351,7 @@
 			(uuid "94bb835b-f302-4f40-b3e8-9ce02474bc18")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR02")
 					(unit 1)
@@ -11427,7 +11417,7 @@
 			(uuid "48dc5772-38ee-4dc8-808e-bbb0169e639f")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR04")
 					(unit 1)
@@ -11493,7 +11483,7 @@
 			(uuid "fe370edb-9e49-4011-aede-ea7aed2ba80a")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR040")
 					(unit 1)
@@ -11527,7 +11517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 201.93 145.288 90)
 			(effects
 				(font
@@ -11579,7 +11569,7 @@
 			(uuid "a6dbdebf-79bd-4978-9ad8-2ef40ab1816d")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "R8")
 					(unit 1)
@@ -11667,7 +11657,7 @@
 			(uuid "abbbf879-f7a6-45f1-8d0e-ae5eaacab638")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "C5")
 					(unit 1)
@@ -11701,7 +11691,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-3000P"
 			(at 63.5 109.22 0)
 			(effects
 				(font
@@ -11826,7 +11816,7 @@
 			(uuid "c3f98dd1-29e8-4be0-9ab5-7d140a3d85b9")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "RESET1")
 					(unit 1)
@@ -11914,7 +11904,7 @@
 			(uuid "fa65915d-8374-46a6-91a0-f473d3961621")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "C1")
 					(unit 1)
@@ -11980,7 +11970,7 @@
 			(uuid "d2dde42a-b8c9-40d5-9f82-b3be13e27ab3")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR01")
 					(unit 1)
@@ -12015,7 +12005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 151.13 145.288 90)
 			(effects
 				(font
@@ -12067,7 +12057,7 @@
 			(uuid "031c2133-78ee-4825-b010-7da511314ee2")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "R3")
 					(unit 1)
@@ -12133,7 +12123,7 @@
 			(uuid "e158b45b-a3a6-452f-bb6b-1b165dbb055b")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR010")
 					(unit 1)
@@ -12168,7 +12158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 167.64 145.288 90)
 			(effects
 				(font
@@ -12220,7 +12210,7 @@
 			(uuid "d4819dd9-7b0e-49b5-ba72-4092f66330d3")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "R5")
 					(unit 1)
@@ -12306,7 +12296,7 @@
 			(uuid "55655eeb-e744-4388-b2cf-4d6854e395ae")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "C6")
 					(unit 1)
@@ -12391,7 +12381,7 @@
 			(uuid "20fa565a-0fb0-4dc8-87d3-099c543c1a39")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "C7")
 					(unit 1)
@@ -12690,7 +12680,7 @@
 			(uuid "98468cbe-3eeb-4a9e-90ea-ab8a57a00f8d")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "U3")
 					(unit 1)
@@ -12756,7 +12746,7 @@
 			(uuid "949e1f70-03bd-42f9-9fa2-e60f6a6eb3b0")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR023")
 					(unit 1)
@@ -12822,7 +12812,7 @@
 			(uuid "4734f2e6-9d30-4704-a2ea-e6b299e14bb4")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR09")
 					(unit 1)
@@ -12888,7 +12878,7 @@
 			(uuid "ce33bc96-aae5-42b5-8ecd-ae25d7865c46")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR012")
 					(unit 1)
@@ -12984,7 +12974,7 @@
 			(uuid "3e868207-8cdf-4a59-ac8e-8a30974ec284")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "J2")
 					(unit 1)
@@ -13050,7 +13040,7 @@
 			(uuid "ea613543-ac25-43bf-936f-b53cecc5fa42")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR05")
 					(unit 1)
@@ -13138,7 +13128,7 @@
 			(uuid "12510885-c574-4a5f-99f5-8e302972b7d9")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "C3")
 					(unit 1)
@@ -13204,7 +13194,7 @@
 			(uuid "7c78396b-e27b-496c-991d-fcdaceab06a9")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "#PWR025")
 					(unit 1)
@@ -13348,7 +13338,7 @@
 			(uuid "f09413c4-5c9b-4128-a471-3ebbc473810f")
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(reference "S2")
 					(unit 1)
@@ -13387,7 +13377,7 @@
 			)
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(page "3")
 				)
@@ -13425,7 +13415,7 @@
 			)
 		)
 		(instances
-			(project "Production v2"
+			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
 					(page "2")
 				)
