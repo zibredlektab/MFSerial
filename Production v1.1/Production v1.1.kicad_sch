@@ -5451,6 +5451,16 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 106.68) (xy 260.35 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b11ea71-3f91-4fb9-acab-5ee700276a56")
+	)
+	(wire
+		(pts
 			(xy 67.31 144.78) (xy 69.85 144.78)
 		)
 		(stroke
@@ -5871,16 +5881,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 93.98) (xy 260.35 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31aab7b4-7ea5-4519-afa1-813d160a7ce3")
-	)
-	(wire
-		(pts
 			(xy 269.24 20.32) (xy 269.24 33.02)
 		)
 		(stroke
@@ -5918,16 +5918,6 @@
 			(type default)
 		)
 		(uuid "44f97998-6048-4a98-8583-f302f18618b1")
-	)
-	(wire
-		(pts
-			(xy 226.06 81.28) (xy 231.14 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47d80bec-7f0e-4698-bbd1-d6dde5f13572")
 	)
 	(wire
 		(pts
@@ -7474,28 +7464,6 @@
 			)
 		)
 	)
-	(global_label "RXLED"
-		(shape input)
-		(at 260.35 93.98 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "07ac4b06-4994-4ad2-8aa3-4fa5df9bd41d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 269.2618 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "MOSI"
 		(shape input)
 		(at 231.14 91.44 180)
@@ -7630,22 +7598,22 @@
 	)
 	(global_label "SETLED"
 		(shape input)
-		(at 231.14 96.52 180)
+		(at 256.54 93.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "3f3ec238-899e-4f92-9a93-72767ad54e46")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 221.3816 96.52 0)
+			(at 266.2984 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -7740,7 +7708,7 @@
 	)
 	(global_label "SOFTBTN"
 		(shape input)
-		(at 226.06 81.28 180)
+		(at 231.14 99.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7750,7 +7718,7 @@
 		)
 		(uuid "48e05c81-1535-48a2-ac45-c3075a556de6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.9105 81.28 0)
+			(at 219.9905 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7850,7 +7818,7 @@
 	)
 	(global_label "SETBTN"
 		(shape input)
-		(at 231.14 99.06 180)
+		(at 231.14 81.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7860,7 +7828,7 @@
 		)
 		(uuid "6df704e5-c3c4-4e96-9ee3-9127bd7e8e25")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 221.2606 99.06 0)
+			(at 221.2606 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8004,22 +7972,22 @@
 	)
 	(global_label "ZSIG"
 		(shape input)
-		(at 231.14 104.14 180)
+		(at 256.54 96.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "9d83e85a-9921-4e5b-b583-12b8b62b88e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 223.861 104.14 0)
+			(at 263.819 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -8070,22 +8038,22 @@
 	)
 	(global_label "RUN"
 		(shape input)
-		(at 231.14 114.3 180)
+		(at 260.35 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "aa58bcd4-ee10-48f7-8594-3c4a39ce6a19")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 224.2238 114.3 0)
+			(at 267.2662 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -8268,28 +8236,6 @@
 	)
 	(global_label "OLED_DC"
 		(shape input)
-		(at 231.14 86.36 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e3518d50-fc7d-4966-97e6-7772f162c6e6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 219.8696 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "OLED_CS"
-		(shape input)
 		(at 256.54 91.44 0)
 		(fields_autoplaced yes)
 		(effects
@@ -8298,14 +8244,36 @@
 			)
 			(justify left)
 		)
-		(uuid "ea5b59d1-7bc3-4a85-bd9f-1636238e1db9")
+		(uuid "e3518d50-fc7d-4966-97e6-7772f162c6e6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 267.7499 91.44 0)
+			(at 267.8104 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "OLED_CS"
+		(shape input)
+		(at 231.14 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e66016d1-721f-440c-88b6-15fe0ddc1ca3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 219.9301 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -10212,7 +10180,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 104.14 156.718 90)
 			(effects
 				(font
@@ -11089,7 +11057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 104.14 154.178 90)
 			(effects
 				(font
@@ -11517,7 +11485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 201.93 145.288 90)
 			(effects
 				(font
@@ -11675,7 +11643,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bdac3c03-159a-471f-9a67-959a9419457c")
-		(property "Reference" "RESET1"
+		(property "Reference" "S3"
 			(at 58.42 106.68 0)
 			(effects
 				(font
@@ -11818,7 +11786,7 @@
 		(instances
 			(project "Production v1.1"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4"
-					(reference "RESET1")
+					(reference "S3")
 					(unit 1)
 				)
 			)
@@ -12005,7 +11973,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 151.13 145.288 90)
 			(effects
 				(font
@@ -12158,7 +12126,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 167.64 145.288 90)
 			(effects
 				(font
