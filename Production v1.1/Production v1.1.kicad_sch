@@ -10086,7 +10086,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1uF,60V+"
+		(property "Value" "2.2uF,100V"
 			(at 119.38 44.4499 0)
 			(effects
 				(font
@@ -10122,7 +10122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "GRM21BC72A105KE01L"
+		(property "Part Number" "C2012X7R2A225K125AC"
 			(at 115.57 43.18 0)
 			(effects
 				(font
@@ -10131,7 +10131,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/murata-electronics/GRM21BC72A105KE01L/6606093"
+		(property "URL" "https://www.digikey.com/en/products/detail/tdk-corporation/C2012X7R2A225K125AC/20482638"
 			(at 115.57 43.18 0)
 			(effects
 				(font
@@ -10699,7 +10699,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uF,10V+"
+		(property "Value" "22uF,10V+"
 			(at 180.34 49.5299 0)
 			(effects
 				(font
@@ -10735,7 +10735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CL05A106MP6NUN8"
+		(property "Part Number" "GRM158R61A226ME15D"
 			(at 176.53 48.26 0)
 			(effects
 				(font
@@ -10744,7 +10744,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A106MP6NUN8/10478957"
+		(property "URL" "https://www.digikey.com/en/products/detail/murata-electronics/GRM158R61A226ME15D/16033379"
 			(at 176.53 48.26 0)
 			(effects
 				(font
