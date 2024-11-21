@@ -8465,56 +8465,6 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "1.1"
-			(at 156.21 429.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "621-AP7375-33SA-7"
-			(at 156.21 529.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP7375-33SA-7?qs=t7xnP681wgUi6c6GDTa82w%3D%3D"
-			(at 156.21 629.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Diodes Incorporated"
-			(at 156.21 729.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "AP7375-33SA-7"
-			(at 156.21 829.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
 		(property "Part Number" "AP7375-33SA-7"
 			(at 132.08 34.29 0)
 			(effects
@@ -9056,26 +9006,6 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "ESC Inc."
-			(at 226.06 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 226.06 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "0790e03d-ae06-4c81-a8b8-7f22a9bc489a")
 		)
@@ -9359,56 +9289,6 @@
 		)
 		(property "Description" "RS-232 Interface IC +/-15kV ESD-Protected, RS-232 Transceivers for Multidrop Applications"
 			(at 166.37 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Height" "4.572"
-			(at 166.37 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "700-MAX3323EEPE"
-			(at 166.37 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX3323EEPE%2b?qs=CDqwynd4ZNoRwc1iI5RFww%3D%3D"
-			(at 166.37 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Analog Devices"
-			(at 166.37 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "MAX3323EEPE+"
-			(at 166.37 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9806,7 +9686,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF,24V+"
+		(property "Value" "100nF,25V  "
 			(at 111.76 87.6299 0)
 			(effects
 				(font
@@ -9927,56 +9807,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "B"
-			(at 121.92 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 121.92 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SNAPEDA_PN" "USB4085-GF-A"
-			(at 121.92 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "3.16mm"
-			(at 121.92 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Global Connector Technology"
-			(at 121.92 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -10207,7 +10037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "ESR03EZPJ512"
+		(property "Part Number" "ERJ-1GNF5101C"
 			(at 104.14 154.94 0)
 			(effects
 				(font
@@ -10216,7 +10046,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/rohm-semiconductor/ESR03EZPJ512/1762735"
+		(property "URL" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF5101C/2036192"
 			(at 104.14 154.94 0)
 			(effects
 				(font
@@ -11084,7 +10914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "ESR03EZPJ512"
+		(property "Part Number" "ERJ-1GNF5101C"
 			(at 104.14 152.4 0)
 			(effects
 				(font
@@ -11093,7 +10923,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/rohm-semiconductor/ESR03EZPJ512/1762735"
+		(property "URL" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF5101C/2036192"
 			(at 104.14 152.4 0)
 			(effects
 				(font
@@ -11169,26 +10999,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "E-Switch"
-			(at 63.5 621.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "TL6100DF300QP"
-			(at 63.5 721.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
 				(hide yes)
 			)
 		)
@@ -11482,7 +11292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-0764R9L"
+		(property "Part Number" "ERJ-1GNF64R9C"
 			(at 201.93 143.51 0)
 			(effects
 				(font
@@ -11491,7 +11301,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-0764R9L/727343"
+		(property "URL" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF64R9C/2035977"
 			(at 201.93 143.51 0)
 			(effects
 				(font
@@ -11534,7 +11344,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF,24V+"
+		(property "Value" "100nF,25V  "
 			(at 124.46 102.8699 0)
 			(effects
 				(font
@@ -11659,56 +11469,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "B3U-3000P"
-			(at 63.5 101.6 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Category" "Switches"
-			(at 63.5 99.06 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Family" "Tactile Switches"
-			(at 63.5 96.52 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Omron Electronics Inc-EMC Div"
-			(at 63.5 86.36 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Status" "Active"
-			(at 63.5 83.82 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
 		(property "Part Number" "B3U-3000P"
 			(at 58.42 114.3 0)
 			(effects
@@ -11719,15 +11479,6 @@
 			)
 		)
 		(property "URL" "https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3U-3000P/1534340"
-			(at 58.42 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field14" ""
 			(at 58.42 114.3 0)
 			(effects
 				(font
@@ -11770,7 +11521,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF,24V+"
+		(property "Value" "100nF,25V  "
 			(at 111.76 74.9299 0)
 			(effects
 				(font
@@ -11959,7 +11710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-074K7L"
+		(property "Part Number" "ERJ-1GNF4701C"
 			(at 151.13 143.51 0)
 			(effects
 				(font
@@ -11968,7 +11719,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-074K7L/727212"
+		(property "URL" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF4701C/2036188"
 			(at 151.13 143.51 0)
 			(effects
 				(font
@@ -12112,7 +11863,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603FR-073K3L"
+		(property "Part Number" "ERJ-1GNF3301C"
 			(at 167.64 143.51 0)
 			(effects
 				(font
@@ -12121,7 +11872,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/yageo/RC0603FR-073K3L/727126"
+		(property "URL" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF3301C/2036169"
 			(at 167.64 143.51 0)
 			(effects
 				(font
@@ -12366,76 +12117,6 @@
 		)
 		(property "Description" "IC MCU 32BIT 256KB FLASH 48TQFP"
 			(at 248.92 78.74 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "MPN" "ATSAMD21G18A-AUT"
-			(at 248.92 91.44 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Category" "Integrated Circuits (ICs)"
-			(at 248.92 88.9 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Family" "Embedded - Microcontrollers"
-			(at 248.92 86.36 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "DK_Datasheet_Link" "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en605782"
-			(at 248.92 83.82 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "DK_Detail_Page" "/product-detail/en/microchip-technology/ATSAMD21G18A-AUT/ATSAMD21G18A-AUTCT-ND/4878879"
-			(at 248.92 81.28 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Microchip Technology"
-			(at 248.92 76.2 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Status" "Active"
-			(at 248.92 73.66 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -12994,7 +12675,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF,24V+"
+		(property "Value" "100nF,25V  "
 			(at 111.76 102.8699 0)
 			(effects
 				(font
@@ -13181,36 +12862,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Height" "10.25"
-			(at 63.5 537.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "E-Switch"
-			(at 63.5 637.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "TL6100DF300QP"
-			(at 63.5 737.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
 				(hide yes)
 			)
 		)

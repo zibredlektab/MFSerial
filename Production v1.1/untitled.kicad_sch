@@ -1602,7 +1602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "RC0603JR-07680KL"
+		(property "Part Number" "ERJ-1GNF6803C"
 			(at 95.25 58.42 0)
 			(effects
 				(font
@@ -1611,7 +1611,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-07680KL/726820"
+		(property "URL" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF6803C/2036436"
 			(at 95.25 58.42 0)
 			(effects
 				(font
@@ -1885,16 +1885,6 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "HRS"
-			(at 118.11 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(property "Part Number" "FH34SRJ-16S-0.5SH(50)"
 			(at 118.11 71.12 0)
 			(effects
@@ -2028,7 +2018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "ESR03EZPJ512"
+		(property "Part Number" "ERJ-1GNF5101C"
 			(at 91.44 68.58 0)
 			(effects
 				(font
@@ -2037,7 +2027,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/rohm-semiconductor/ESR03EZPJ512/1762735"
+		(property "URL" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF5101C/2036192"
 			(at 91.44 68.58 0)
 			(effects
 				(font
