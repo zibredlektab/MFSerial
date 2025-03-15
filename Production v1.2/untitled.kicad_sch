@@ -262,32 +262,30 @@
 				)
 			)
 		)
-		(symbol "FH34SRJ-16S-0.5SH_50_:FH34SRJ-16S-0.5SH_50_"
+		(symbol "FH34SRJ-16S-0.5SH_50__1"
 			(pin_names
 				(offset 1.016)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J"
-				(at -5.58 22.86 0)
+			(property "Reference" "J?"
+				(at 8.636 21.336 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
 				)
 			)
 			(property "Value" "FH34SRJ-16S-0.5SH_50_"
-				(at -5.08 -30.48 0)
+				(at 19.304 18.542 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left bottom)
 				)
 			)
-			(property "Footprint" "FH34SRJ-16S-0.5SH_50_:HRS_FH34SRJ-16S-0.5SH_50_"
+			(property "Footprint" "FH34SRJ_16S_0_5SH_50:HRS_FH34SRJ-16S-0.5SH_50_"
 				(at 0 0 0)
 				(effects
 					(font
@@ -315,17 +313,25 @@
 					(hide yes)
 				)
 			)
-			(property "MANUFACTURER" "HRS"
+			(property "Part Number" "FH34SRJ-16S-0.5SH(50)"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify bottom)
 					(hide yes)
 				)
 			)
-			(symbol "FH34SRJ-16S-0.5SH_50__0_0"
+			(property "URL" "https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/FH34SRJ-16S-0-5SH-50/5132522"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "FH34SRJ-16S-0.5SH_50__1_0_0"
 				(rectangle
 					(start -5.08 -27.94)
 					(end 5.08 22.86)
@@ -338,7 +344,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 20.32 0)
+					(at -10.16 -17.78 0)
 					(length 5.08)
 					(name "1"
 						(effects
@@ -356,7 +362,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 -2.54 0)
+					(at -10.16 5.08 0)
 					(length 5.08)
 					(name "10"
 						(effects
@@ -374,7 +380,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 -5.08 0)
+					(at -10.16 7.62 0)
 					(length 5.08)
 					(name "11"
 						(effects
@@ -392,7 +398,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 -7.62 0)
+					(at -10.16 10.16 0)
 					(length 5.08)
 					(name "12"
 						(effects
@@ -410,7 +416,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 -10.16 0)
+					(at -10.16 12.7 0)
 					(length 5.08)
 					(name "13"
 						(effects
@@ -428,7 +434,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 -12.7 0)
+					(at -10.16 15.24 0)
 					(length 5.08)
 					(name "14"
 						(effects
@@ -446,7 +452,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 -15.24 0)
+					(at -10.16 17.78 0)
 					(length 5.08)
 					(name "15"
 						(effects
@@ -464,7 +470,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 -17.78 0)
+					(at -10.16 20.32 0)
 					(length 5.08)
 					(name "16"
 						(effects
@@ -482,7 +488,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 17.78 0)
+					(at -10.16 -15.24 0)
 					(length 5.08)
 					(name "2"
 						(effects
@@ -500,7 +506,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 15.24 0)
+					(at -10.16 -12.7 0)
 					(length 5.08)
 					(name "3"
 						(effects
@@ -518,7 +524,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 12.7 0)
+					(at -10.16 -10.16 0)
 					(length 5.08)
 					(name "4"
 						(effects
@@ -536,7 +542,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 10.16 0)
+					(at -10.16 -7.62 0)
 					(length 5.08)
 					(name "5"
 						(effects
@@ -554,7 +560,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 7.62 0)
+					(at -10.16 -5.08 0)
 					(length 5.08)
 					(name "6"
 						(effects
@@ -572,7 +578,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 5.08 0)
+					(at -10.16 -2.54 0)
 					(length 5.08)
 					(name "7"
 						(effects
@@ -590,7 +596,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 2.54 0)
+					(at -10.16 0 0)
 					(length 5.08)
 					(name "8"
 						(effects
@@ -608,7 +614,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 0 0)
+					(at -10.16 2.54 0)
 					(length 5.08)
 					(name "9"
 						(effects
@@ -1645,7 +1651,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2125e46a-8d54-4af2-b224-6248e35b8894")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR025"
 			(at 107.95 45.72 0)
 			(effects
 				(font
@@ -1695,7 +1701,7 @@
 		(instances
 			(project "Production v1.2"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4/7bd35dc1-a7c7-48b2-b6a6-7456ace66990"
-					(reference "#PWR027")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -1710,7 +1716,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "353bea72-7d06-49d5-9043-cf17b32b67ca")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR024"
 			(at 100.33 81.28 0)
 			(effects
 				(font
@@ -1760,7 +1766,7 @@
 		(instances
 			(project "Production v1.2"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4/7bd35dc1-a7c7-48b2-b6a6-7456ace66990"
-					(reference "#PWR026")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -1776,7 +1782,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39f785ce-7c08-49df-ad5a-e6eec14f811e")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR026"
 			(at 130.81 105.41 0)
 			(effects
 				(font
@@ -1826,141 +1832,7 @@
 		(instances
 			(project "Production v1.2"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4/7bd35dc1-a7c7-48b2-b6a6-7456ace66990"
-					(reference "#PWR028")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "FH34SRJ-16S-0.5SH_50_:FH34SRJ-16S-0.5SH_50_")
-		(at 118.11 71.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "42a2adad-8ed6-4a42-82aa-6f14e5e5678d")
-		(property "Reference" "J4"
-			(at 126.746 49.784 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "FH34SRJ-16S-0.5SH_50_"
-			(at 137.414 52.578 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "FH34SRJ_16S_0_5SH_50:HRS_FH34SRJ-16S-0.5SH_50_"
-			(at 118.11 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 118.11 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 118.11 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Number" "FH34SRJ-16S-0.5SH(50)"
-			(at 118.11 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "URL" "https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/FH34SRJ-16S-0-5SH-50/5132522"
-			(at 118.11 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "14"
-			(uuid "1b64a635-36f7-4e6e-9d65-e45932071303")
-		)
-		(pin "15"
-			(uuid "f9a03575-3989-47c9-91e4-77126a37938f")
-		)
-		(pin "16"
-			(uuid "14a3c2fa-1e47-4b87-9a6a-31a92d6ca080")
-		)
-		(pin "2"
-			(uuid "91d0ce04-96c0-47da-b024-fdd25d588096")
-		)
-		(pin "3"
-			(uuid "c9445f59-bba9-4afb-bd4c-4b871ef81753")
-		)
-		(pin "4"
-			(uuid "f8ec569c-c88d-47db-a302-dbb18ed2e976")
-		)
-		(pin "10"
-			(uuid "2b5846de-9c0e-4abe-8d64-b0e05375ec27")
-		)
-		(pin "1"
-			(uuid "8447ccbd-b7cd-4dfc-9f78-640b5ada919d")
-		)
-		(pin "5"
-			(uuid "c840910b-15ac-418f-be43-38e4f1d343a0")
-		)
-		(pin "6"
-			(uuid "3f04365d-92e3-4820-a09f-7aacebaeca1d")
-		)
-		(pin "7"
-			(uuid "93809697-b7f7-48bc-a9ed-fb8627535170")
-		)
-		(pin "8"
-			(uuid "3f402d10-db62-453a-8ebd-c0cd152823b0")
-		)
-		(pin "12"
-			(uuid "14225063-1958-4ab4-a216-7fa85dfc84f3")
-		)
-		(pin "9"
-			(uuid "24b1cbfe-ab48-41eb-bee9-6636bd34c752")
-		)
-		(pin "S1"
-			(uuid "047607e6-1151-47b8-b238-4fedae2f3035")
-		)
-		(pin "S2"
-			(uuid "39299872-776c-4038-8d54-c371d8beb162")
-		)
-		(pin "13"
-			(uuid "3872a5a8-a323-4077-9a69-77a3ee2ac799")
-		)
-		(pin "11"
-			(uuid "eb923097-448a-4407-a12c-79cc858128dc")
-		)
-		(instances
-			(project "Production v1.2"
-				(path "/36880c03-5560-4777-bc12-f18c70ba2db4/7bd35dc1-a7c7-48b2-b6a6-7456ace66990"
-					(reference "J4")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -2146,7 +2018,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e011bb0-83e6-4336-97d7-cf4e266749bb")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR023"
 			(at 82.55 67.31 0)
 			(effects
 				(font
@@ -2196,7 +2068,7 @@
 		(instances
 			(project "Production v1.2"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4/7bd35dc1-a7c7-48b2-b6a6-7456ace66990"
-					(reference "#PWR025")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -2300,7 +2172,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3ad016f-3d87-4e37-8857-af6fb97851d5")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR022"
 			(at 74.93 74.93 0)
 			(effects
 				(font
@@ -2350,7 +2222,7 @@
 		(instances
 			(project "Production v1.2"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4/7bd35dc1-a7c7-48b2-b6a6-7456ace66990"
-					(reference "#PWR024")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -2438,6 +2310,141 @@
 			(project "Production v1.2"
 				(path "/36880c03-5560-4777-bc12-f18c70ba2db4/7bd35dc1-a7c7-48b2-b6a6-7456ace66990"
 					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "FH34SRJ-16S-0.5SH_50__1")
+		(lib_id "FH34SRJ-16S-0.5SH_50_:FH34SRJ-16S-0.5SH_50_")
+		(at 118.11 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ce66b221-46f7-4d83-a9dc-b5f7c172410f")
+		(property "Reference" "J4"
+			(at 126.746 49.784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FH34SRJ-16S-0.5SH_50_"
+			(at 137.414 52.578 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "FH34SRJ_16S_0_5SH_50:HRS_FH34SRJ-16S-0.5SH_50_"
+			(at 118.11 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 118.11 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "FH34SRJ-16S-0.5SH(50)"
+			(at 118.11 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/FH34SRJ-16S-0-5SH-50/5132522"
+			(at 118.11 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "14"
+			(uuid "b8a40424-80b1-49c5-9bb3-e9bca5e679a4")
+		)
+		(pin "15"
+			(uuid "e9b19c7e-93ef-440f-8162-594d790e6224")
+		)
+		(pin "16"
+			(uuid "6cca08e3-53c1-4b29-9876-f2419f08cbfc")
+		)
+		(pin "2"
+			(uuid "bcbb852d-9b69-4c23-ada7-09b81370c39c")
+		)
+		(pin "3"
+			(uuid "9284b70c-e3d1-4313-b574-3a922a4c4329")
+		)
+		(pin "4"
+			(uuid "ef2bd0d2-e532-423a-9687-07d80b706396")
+		)
+		(pin "10"
+			(uuid "78053493-a942-4f42-9d60-a29611931ea6")
+		)
+		(pin "1"
+			(uuid "1a980a3d-8dff-4f07-beb6-7d04d2a73c5f")
+		)
+		(pin "5"
+			(uuid "25ccd2ec-82c2-49cc-a00f-c5e9e52eb170")
+		)
+		(pin "6"
+			(uuid "12c9f219-ca52-4738-9e7f-a0905ca4016f")
+		)
+		(pin "7"
+			(uuid "b9e0743b-67f8-47bd-a1b3-3103441f569e")
+		)
+		(pin "8"
+			(uuid "d0e3d698-96dd-4039-be7a-66919111ad4b")
+		)
+		(pin "12"
+			(uuid "1515e921-154f-4921-9597-1dd00d8a7255")
+		)
+		(pin "9"
+			(uuid "7c204a69-e2da-49ae-b0b4-70a8eaad4646")
+		)
+		(pin "S1"
+			(uuid "f3dae542-7d65-411f-8d9f-b4c9efda3b95")
+		)
+		(pin "S2"
+			(uuid "5de96a30-71d7-4dd8-be65-90ab438ddc60")
+		)
+		(pin "13"
+			(uuid "5e620b59-f6cf-4038-8c8d-3d8cc5d2526a")
+		)
+		(pin "11"
+			(uuid "bff9db4a-2f99-43c5-adce-073f65a74d86")
+		)
+		(instances
+			(project "Production v1.2"
+				(path "/36880c03-5560-4777-bc12-f18c70ba2db4/7bd35dc1-a7c7-48b2-b6a6-7456ace66990"
+					(reference "J4")
 					(unit 1)
 				)
 			)
