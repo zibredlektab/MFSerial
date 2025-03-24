@@ -522,7 +522,7 @@
       "plot": "../../../../../Desktop/",
       "pos_files": "../../../../../Desktop/",
       "specctra_dsn": "",
-      "step": "../../../../Desktop/Productionv1.1.step",
+      "step": "../../../../Desktop/Productionv1.2.step",
       "svg": "",
       "vrml": ""
     },
@@ -604,6 +604,48 @@
           "label": "URL",
           "name": "URL",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Family",
+          "name": "Family",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DK_Datasheet_Link",
+          "name": "DK_Datasheet_Link",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Status",
+          "name": "Status",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "DK_Detail_Page",
+          "name": "DK_Detail_Page",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Category",
+          "name": "Category",
+          "show": false
         }
       ],
       "filter_string": "",

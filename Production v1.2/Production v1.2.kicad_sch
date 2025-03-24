@@ -8451,6 +8451,24 @@
 				(hide yes)
 			)
 		)
+		(property "Part Number" "BLM15AX601SN1D"
+			(at 248.92 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.digikey.com/en/products/detail/murata-electronics/BLM15AX601SN1D/2256876?s=N4IgTCBcDaIEIBkCyBGArAQQBoDYAMKAygHIoAiIAugL5A"
+			(at 248.92 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6e36efa9-12eb-4049-8127-d72c16d33adc")
 		)
@@ -8798,6 +8816,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 226.06 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "ECS-.327-12.5-1210-TR"
+			(at 226.06 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.digikey.com/en/products/detail/ecs-inc/ECS-327-12-5-1210-TR/6821602?s=N4IgTCBcDaIKIGEDKBaAdAZjAdhQRjDQFZ8w8AGFAFQCUQBdAXyA"
 			(at 226.06 54.61 0)
 			(effects
 				(font
@@ -9244,7 +9280,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "48fba6de-08c8-4ec5-affa-3f2acfc60033")
 		(property "Reference" "TP2"
@@ -10174,7 +10210,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "98d85d58-dcbb-4dd2-afce-821151401827")
 		(property "Reference" "TP1"
@@ -10542,7 +10578,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "acc5e13a-9dfe-4b72-ae14-68c000ec1e10")
 		(property "Reference" "TP4"
@@ -11595,7 +11631,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "dd75b921-e55b-4143-b65a-580f1700c3ca")
 		(property "Reference" "TP3"
@@ -12070,6 +12106,24 @@
 					(size 1.524 1.524)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Part Number" "BLM15AX601SN1D"
+			(at 250.19 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.digikey.com/en/products/detail/murata-electronics/BLM15AX601SN1D/2256876?s=N4IgTCBcDaIEIBkCyBGArAQQBoDYAMKAygHIoAiIAugL5A"
+			(at 250.19 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
