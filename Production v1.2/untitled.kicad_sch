@@ -1957,7 +1957,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 83.82 50.8 0)
 			(effects
 				(font
@@ -2485,7 +2485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 93.98 54.61 0)
 			(effects
 				(font

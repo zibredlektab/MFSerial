@@ -8265,7 +8265,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "530480510"
+		(property "Datasheet" ""
 			(at 46.99 140.97 0)
 			(effects
 				(font
@@ -8343,7 +8343,7 @@
 				)
 			)
 		)
-		(property "Value" "BLM15AX601SN1D"
+		(property "Value" "600 MHz @ 100 MHz"
 			(at 255.016 144.78 0)
 			(effects
 				(font
@@ -8361,7 +8361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.murata.com/en-us/products/productdata/8796741599262/ENFA0004.pdf"
+		(property "Datasheet" ""
 			(at 254 140.97 0)
 			(effects
 				(font
@@ -8371,68 +8371,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "FERRITE BEAD 1.5 KOHM 0603 1LN"
+		(property "Description" "600 Ohms @ 100 MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 1.5A 100mOhm"
 			(at 254 123.19 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "MPN" "BLM18HE152SN1D"
-			(at 254 135.89 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Category" "Filters"
-			(at 254 133.35 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Family" "Ferrite Beads and Chips"
-			(at 254 130.81 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "DK_Datasheet_Link" "https://www.murata.com/en-us/products/productdata/8796741599262/ENFA0004.pdf"
-			(at 254 128.27 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "DK_Detail_Page" "/product-detail/en/murata-electronics-north-america/BLM18HE152SN1D/490-5216-1-ND/1948392"
-			(at 254 125.73 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata Electronics North America"
-			(at 254 120.65 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -8451,7 +8391,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "BLM15AX601SN1D"
+		(property "Part Number" "74269262601"
 			(at 248.92 148.59 0)
 			(effects
 				(font
@@ -8460,7 +8400,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/murata-electronics/BLM15AX601SN1D/2256876?s=N4IgTCBcDaIEIBkCyBGArAQQBoDYAMKAygHIoAiIAugL5A"
+		(property "URL" "https://www.digikey.com/en/products/detail/würth-elektronik/74269262601/17829853"
 			(at 248.92 148.59 0)
 			(effects
 				(font
@@ -9047,7 +8987,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/MAX3323EEPE+.pdf"
+		(property "Datasheet" ""
 			(at 179.07 34.29 0)
 			(effects
 				(font
@@ -10104,7 +10044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "ERJ-1GNF3301C"
+		(property "Part Number" "RC0201FR-071KL"
 			(at 273.05 86.36 0)
 			(effects
 				(font
@@ -10113,7 +10053,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF3301C/2036169"
+		(property "URL" "https://www.digikey.com/en/products/detail/yageo/RC0201FR-071KL/3202389"
 			(at 273.05 86.36 0)
 			(effects
 				(font
@@ -10538,7 +10478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "CL05C010CB5NNNC"
+		(property "Part Number" "CL05B104KA5NNNC"
 			(at 251.46 49.53 0)
 			(effects
 				(font
@@ -10547,7 +10487,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05C010CB5NNNC/3887253"
+		(property "URL" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05B104KA5NNNC/5961204"
 			(at 251.46 49.53 0)
 			(effects
 				(font
@@ -10672,7 +10612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/TL6100AF300QP.pdf"
+		(property "Datasheet" ""
 			(at 167.64 304.14 0)
 			(effects
 				(font
@@ -11006,7 +10946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf"
+		(property "Datasheet" ""
 			(at 167.64 88.9 0)
 			(effects
 				(font
@@ -11240,7 +11180,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 106.68 149.098 90)
 			(effects
 				(font
@@ -11267,7 +11207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "ERJ-1GNF4701C"
+		(property "Part Number" "ERA-2VRW5601X"
 			(at 106.68 147.32 0)
 			(effects
 				(font
@@ -11276,7 +11216,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF4701C/2036188"
+		(property "URL" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-2VRW5601X/12087670?s=N4IgjCBcoMxaBjKAzAhgGwM4FMA0IB7KAbRADYBOMkAXXwAcAXKEAZUYCcBLAOwHMQAX3xhq0EEkhoseQiRAwKYAKwAOWg2aQ2nXgOHgA7PAkoMOfEUikwAFgAMEOiCYt23fkJEVVFE5OkLOWsQe1oDACZ7VWV-MxlLeWUAOjIAAgBrAHkACwBbTA0XLRAAVR4uRizkAFlsVEwAVw5sLxAAWgi4yE5G2StSWPw-GgN2v3FJXv75J0F5oA"
 			(at 106.68 147.32 0)
 			(effects
 				(font
@@ -11393,7 +11333,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 123.19 149.098 90)
 			(effects
 				(font
@@ -11420,7 +11360,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "ERJ-1GNF3301C"
+		(property "Part Number" "ERA-2VRW3301X"
 			(at 123.19 147.32 0)
 			(effects
 				(font
@@ -11429,7 +11369,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-1GNF3301C/2036169"
+		(property "URL" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-2VRW3301X/12086896?s=N4IgjCBcoMxaBjKAzAhgGwM4FMA0IB7KAbRADYBOMkAXXwAcAXKEAZUYCcBLAOwHMQAX3xhq0EEkhoseQiRAwKYAKwAOWg2aQ2nXgOHgKqivAkoMOfEUikADLQMAmW6uWnJ0y3JsKAdDAACAGsAeQALAFtMDRAmFgBVHi5GEOQAWWxUTABXDmwhfABaR3coTmzZa1I3fBMaA0KTcUlyyvkIesFBIA"
 			(at 123.19 147.32 0)
 			(effects
 				(font
@@ -11727,7 +11667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en605782"
+		(property "Datasheet" ""
 			(at 248.92 87.63 0)
 			(effects
 				(font
@@ -12001,7 +11941,7 @@
 				)
 			)
 		)
-		(property "Value" "BLM15AX601SN1D"
+		(property "Value" "600 Ohm @ 100 MHz"
 			(at 250.444 32.004 0)
 			(effects
 				(font
@@ -12019,7 +11959,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.murata.com/en-us/products/productdata/8796741599262/ENFA0004.pdf"
+		(property "Datasheet" ""
 			(at 255.27 29.21 0)
 			(effects
 				(font
@@ -12029,68 +11969,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "FERRITE BEAD 1.5 KOHM 0603 1LN"
+		(property "Description" "600 Ohms @ 100 MHz 1 Power Line Ferrite Bead 0603 (1608 Metric) 1.5A 100mOhm"
 			(at 255.27 11.43 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "MPN" "BLM18HE152SN1D"
-			(at 255.27 24.13 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Category" "Filters"
-			(at 255.27 21.59 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Family" "Ferrite Beads and Chips"
-			(at 255.27 19.05 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "DK_Datasheet_Link" "https://www.murata.com/en-us/products/productdata/8796741599262/ENFA0004.pdf"
-			(at 255.27 16.51 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "DK_Detail_Page" "/product-detail/en/murata-electronics-north-america/BLM18HE152SN1D/490-5216-1-ND/1948392"
-			(at 255.27 13.97 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Murata Electronics North America"
-			(at 255.27 8.89 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -12109,7 +11989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part Number" "BLM15AX601SN1D"
+		(property "Part Number" "74269262601"
 			(at 250.19 36.83 0)
 			(effects
 				(font
@@ -12118,7 +11998,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.digikey.com/en/products/detail/murata-electronics/BLM15AX601SN1D/2256876?s=N4IgTCBcDaIEIBkCyBGArAQQBoDYAMKAygHIoAiIAugL5A"
+		(property "URL" "https://www.digikey.com/en/products/detail/würth-elektronik/74269262601/17829853"
 			(at 250.19 36.83 0)
 			(effects
 				(font
@@ -12180,7 +12060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "530480410"
+		(property "Datasheet" ""
 			(at 46.99 167.64 0)
 			(effects
 				(font
@@ -12428,7 +12308,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/TL6100AF300QP.pdf"
+		(property "Datasheet" ""
 			(at 167.64 319.38 0)
 			(effects
 				(font
