@@ -12,6 +12,6 @@
 #define USB_VID 0x1209
 #define USB_PID 0x2525
 
-#define LED_PIN PIN_PA22
+#define LED_PIN PIN_PA05
 
 #endif
